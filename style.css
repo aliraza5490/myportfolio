@@ -84,7 +84,7 @@ nav a {
   width: 100%;
   height: 100vh;
   /*   https://unsplash.com/photos/VBLHICVh-lI */
-  background: url("https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+  background: url("./images/mario-gogh-VBLHICVh-lI-unsplash.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -92,7 +92,7 @@ nav a {
   color: silver;
 }
 .content {
-  width: 300px;
+  width: 350px;
   float: right;
   margin: 10% 8%;
   /*   background: black; */
@@ -157,7 +157,7 @@ button {
       rgba(0, 0, 0, 0.7) 0%,
       rgba(255, 255, 255, 0) 100%
     ),
-    url("https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+    url("./images/photo-1499750310107-5fef28a66643.jpg");
   background-size: cover;
   position: relative;
 }
@@ -213,7 +213,7 @@ button {
       rgba(9, 9, 121, 0.7) 0%,
       rgba(255, 255, 255, 0.8799894957983193) 100%
     ),
-    url("https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80")
+    url("./images/photo-1529400971008-f566de0e6dfc.jpg")
       no-repeat;
   background-size: cover;
 }
@@ -227,7 +227,7 @@ button {
   width: 160px;
   border-radius: 50%;
   /*   https://unsplash.com/photos/jns8BPueAgU */
-  background: url("https://raw.githubusercontent.com/aliraza5490/Projects/master/images/IMG-20191208-WA0083.jpg");
+  background: url("./images/IMG-20191208-WA0083.jpg");
   background-size: 100%;
   margin: 0 auto;
 }
@@ -265,7 +265,7 @@ button {
       rgba(0, 0, 0, 0.7) 0%,
       rgba(255, 255, 255, 0) 100%
     ),
-    url("https://images.unsplash.com/photo-1466096115517-bceecbfb6fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80")
+    url("./images/photo-1466096115517-bceecbfb6fde.jpg")
       no-repeat;
   background-size: cover;
   color: white;
